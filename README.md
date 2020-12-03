@@ -1,6 +1,6 @@
-## About Decor House
+## About Inventory Management
 
-Decor House.
+It's a simple Inventory Management application based on Laravel.
 
 ## Setup project after cloning
 
